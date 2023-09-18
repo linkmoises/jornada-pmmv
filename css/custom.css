@@ -5,6 +5,8 @@
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
 
+.mfp-close { display: none !important; }
+
 .btn3d {
 	position: relative;
 	top: -6px;
